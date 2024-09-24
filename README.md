@@ -18,7 +18,7 @@ You can also follow my journey on Instagram, where I'll be sharing the developme
    git clone https://github.com/your-username/50-Days-50-React-Projects.git
 2. Navigate to the project folder:
    ```bash
-   cd 50-Days-50-React-Projects/day-1
+   cd 50-Days-50-React-Projects/Day 01
 3.  Install dependencies:
     ```bash
     npm install
