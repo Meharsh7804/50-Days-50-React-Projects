@@ -7,15 +7,15 @@ First, run the development server:
 ```bash
 npm run dev
 ```
-# or
+### or
 ```bash
 yarn dev
 ```
-# or
+### or
 ```bash
 pnpm dev
 ```
-# or
+### or
 ```bash
 bun dev
 ```
